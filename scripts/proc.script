@@ -1,0 +1,1 @@
+${var}=(get-process | Select ID,ProcessName,Path,Company | Out-String);

@@ -1,0 +1,1 @@
+${var}=(Get-Volume | Out-String);
